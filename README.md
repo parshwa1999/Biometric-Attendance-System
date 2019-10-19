@@ -2,4 +2,4 @@
 
 **How to Run**
 
-See Biometric_Attendance_System.pdf
+Please refer Biometric_Attendance_System.pdf
