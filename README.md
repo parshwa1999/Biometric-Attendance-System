@@ -68,3 +68,10 @@ There are two push buttons one for check-in and other for check out. On pressing
 
 * ## Flowchart
 ![FlowChart](.image/flow.png)
+
+* ## References
+  * Shoewu, O., and O. A. Idowu. "Development of attendance management system using biometrics." The Pacific Journal of Science and Technology 13.1 (2012): 300-307.
+  * Taxila, Punjab. "Development of academic attendance monitoring system using fingerprint identification." ​ IJCSNS ​ 9.5 (2009): 164.
+  * Janiak, Martin, et al. "Biometric authentication device for use with token fingerprint data storage." U.S. Patent Application No. 09/683,049
+  * https://www.microcontroller-project.com/16x2-lcd-working.html
+  * https://www.elprocus.com/fingerprint-sensor-working-and-applications/
